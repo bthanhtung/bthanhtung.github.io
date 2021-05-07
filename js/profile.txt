@@ -19,11 +19,11 @@ During my time studying at the school, I had real projects and some subject proj
 <li><a href="https://niithanoi.edu.vn/cong-nghe.html"_blank" rel="noopener noreferrer">Java Blog Content</a></li>
 </ul><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 
-You can visit my personal blog <a href="" target="_blank" rel="noopener noreferrer">corleonez</a>. Also, feel free to contact me on...<br/>
+You can visit my personal blog <a href="https://bthanhtung.github.io/" target="_blank" rel="noopener noreferrer">bthanhtung.github.io</a>. Also, feel free to contact me on...<br/>
 Facebook: <a href="https://www.facebook.com/me.corleonez/" target="_blank" rel="noopener noreferrer">Michael Corleone</a><br/>
 Twitter: <a href="https://twitter.com/_bthanhtung" target="_blank" rel="noopener noreferrer">Bùi Thanh Tùng | Michael Corleone</a><br/>
 Linkedin: <a href="https://www.linkedin.com/in/bthanhtung/" target="_blank" rel="noopener noreferrer">Tung BT</a><br/>
-Email: &nbsp;&nbsp;<a href="">bthanhtung.se@gmail.com</a>
+Email: &nbsp;&nbsp;<a href="">bthanhtung***@gmail.com</a>
 </p>
 <!-- slightdelayhere-->
 Best Regards
