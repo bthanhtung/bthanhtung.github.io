@@ -1,0 +1,30 @@
+<span id="a">bthanhtung@corleone</span>:<span id="b">~</span><span id="c">$</span> whoami<br/><br/><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+Hi, my name is Bùi Thanh Tùng (Michael Corleone).<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+<p>I'm a young developer from Viet Nam, passionate in software development and photograpy. I've been studying at Can Tho University for 4.5 years. Currently, I work at <a href="https://www.vnptit.vn/" target="_blank" rel="noopener noreferrer">VNPT Information Technology</a> as a Java Backend Developer.</p><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+<p>The following list includes some of the technologies and programming languages that I have worked with or have learned about or interested in:
+
+<ul>
+<li><a href="https://spring.io/" target="_blank" rel="noopener noreferrer">Java Spring</a></li>
+<li><a href="https://nodejs.org/en/" target="_blank" rel="noopener noreferrer">Node.js</a></li>
+<li><a href="" target="_blank" rel="noopener noreferrer">MySQL, MariaDB, SQL Server, MongoDB</a></li>
+<li><a href="" target="_blank" rel="noopener noreferrer">Microservice, Message queue, ...</a></li>
+<li><a href="" target="_blank" rel="noopener noreferrer">...</a></li>
+</ul><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+
+During my time studying at the school, I had real projects and some subject projects such as:
+<ul>
+<li><a href="http://se.cit.ctu.edu.vn/" target="_blank" rel="noopener noreferrer">Software Department Website</a></li>
+<li><a href=""_blank" rel="noopener noreferrer">Sudoku Game</a></li>
+<li><a href=""_blank" rel="noopener noreferrer">Apartment Management</a></li>
+<li><a href="https://niithanoi.edu.vn/cong-nghe.html"_blank" rel="noopener noreferrer">Java Blog Content</a></li>
+</ul><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+
+You can visit my personal blog <a href="" target="_blank" rel="noopener noreferrer">corleonez</a>. Also, feel free to contact me on...<br/>
+Facebook: <a href="https://www.facebook.com/me.corleonez/" target="_blank" rel="noopener noreferrer">Michael Corleone</a><br/>
+Twitter: <a href="https://twitter.com/_bthanhtung" target="_blank" rel="noopener noreferrer">Bùi Thanh Tùng | Michael Corleone</a><br/>
+Linkedin: <a href="https://www.linkedin.com/in/bthanhtung/" target="_blank" rel="noopener noreferrer">Tung BT</a><br/>
+Email: &nbsp;&nbsp;<a href="">bthanhtung.se@gmail.com</a>
+</p>
+<!-- slightdelayhere-->
+Best Regards
+<br/>
