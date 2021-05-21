@@ -1,30 +1,44 @@
-<span id="a">bthanhtung@corleone</span>:<span id="b">~</span><span id="c">$</span> whoami<br/><br/><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+<span id="a">bthanhtung@corleone</span>:<span id="b">~</span><span id="c">$</span> whoami<br/><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 Hi, my name is Bùi Thanh Tùng (Michael Corleone).<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 <p>I'm a young developer from Viet Nam, passionate in software development and photograpy. I've been studying at Can Tho University for 4.5 years. Currently, I work at <a href="https://www.tmasolutions.com/" target="_blank" rel="noopener noreferrer">TMA Solutions</a> as a Java Backend Developer.</p><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
-<p>The following list includes some of the technologies and programming languages that I have worked with or have learned about or interested in:
 
+<span id="a">bthanhtung@corleone</span>:<span id="b">~</span><span id="c">$</span> cat technologies-and-skills <br/><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+The following list includes some of the technologies and programming languages that I have worked with or have learned about or interested in:
 <ul>
-<li><a href="https://spring.io/" target="_blank" rel="noopener noreferrer">Java Spring</a></li>
-<li><a href="https://nodejs.org/en/" target="_blank" rel="noopener noreferrer">Node.js</a></li>
-<li><a href="" target="_blank" rel="noopener noreferrer">MySQL, MariaDB, SQL Server, MongoDB</a></li>
-<li><a href="" target="_blank" rel="noopener noreferrer">Microservice, Message queue, ...</a></li>
-<li><a href="" target="_blank" rel="noopener noreferrer">...</a></li>
+<li><a href="https://spring.io/" target="_blank" rel="noopener noreferrer">Java = ["Spring Boot", "Hibernate", "JPA"]</a></li>
+<li><a href="https://nodejs.org/en/" target="_blank" rel="noopener noreferrer">JavaScript = ["Node.js", "Express.js"]</a></li>
+<li><a href="#" target="_blank" rel="noopener noreferrer">Database = ["MySQL", "MariaDB", "SQL Server", "MongoDB"]</a></li>
+<li><a href="#" target="_blank" rel="noopener noreferrer">Tools and others = ["Git", "VS Code", "Eclipse"]</a></li>
+<li><a href="#" target="_blank" rel="noopener noreferrer">Soft skills = ["Team work", "Creativity", "Leadership", "Time Management"]</a></li>
+<li><a href="#" target="_blank" rel="noopener noreferrer">Microservice, Message queue, ...</a></li>
+<li><a href="#" target="_blank" rel="noopener noreferrer">...</a></li>
 </ul><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 
+<span id="a">bthanhtung@corleone</span>:<span id="b">~</span><span id="c">$</span> tail -n 4 projects-and-work-experience <br/><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 During my time studying at the school, I had real projects and some subject projects such as:
 <ul>
 <li><a href="http://se.cit.ctu.edu.vn/" target="_blank" rel="noopener noreferrer">Software Department Website</a></li>
-<li><a href=""_blank" rel="noopener noreferrer">Sudoku Game</a></li>
-<li><a href=""_blank" rel="noopener noreferrer">Apartment Management</a></li>
-<li><a href="https://niithanoi.edu.vn/cong-nghe.html"_blank" rel="noopener noreferrer">Java Blog Content</a></li>
+<li><a href="https://github.com/bthanhtung/sudoku-game" target="_blank" rel="noopener noreferrer">Sudoku Game</a></li>
+<li><a href="https://github.com/bthanhtung/apartment-management" target="_blank" rel="noopener noreferrer">Apartment Management</a></li>
+<li><a href="https://niithanoi.edu.vn/cong-nghe.html" target="_blank" rel="noopener noreferrer">Java Blog Content</a></li>
 </ul><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 
-You can visit my personal blog <a href="https://bthanhtung.github.io/" target="_blank" rel="noopener noreferrer">bthanhtung.github.io</a>. Also, feel free to contact me on...<br/>
-Facebook: <a href="https://www.facebook.com/me.corleonez/" target="_blank" rel="noopener noreferrer">Michael Corleone</a><br/>
+<span id="a">bthanhtung@corleone</span>:<span id="b">~</span><span id="c">$</span> ls /education <br/><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+Up to this point, I have set foot in 2 universities and self-study at another organization education such as:
+<ul>
+<li><a href="http://cit.ctu.edu.vn/" target="_blank" rel="noopener noreferrer">Software Engineering at Can Tho University (2017 - Present)</a></li>
+<li><a href="http://actvn.edu.vn//" target="_blank" rel="noopener noreferrer">Information Assurance at Academy of Crytography Techniques (2016 - 2017)</a></li>
+<li><a href="https://www.freecodecamp.org/" target="_blank" rel="noopener noreferrer">Web Development at freeCodeCamp (2019 - Present) </a></li>
+<li><a href="https://fullstack.edu.vn/" target="_blank" rel="noopener noreferrer">Web Development at F8 Offical (2020 - Present) </a></li>
+</ul><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+
+<span id="a">bthanhtung@corleone</span>:<span id="b">~</span><span id="c">$</span> head -n 5 contact-me <br/><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+You can find out more about me at <a href="https://bthanhtung.netlify.app/" target="_blank" rel="noopener noreferrer">bthanhtung.netlify.app</a>. Also, feel free to contact me on...<br/>
+Facebook: <a href="https://www.facebook.com/corleonez.me/" target="_blank" rel="noopener noreferrer">Bùi Thanh Tùng | Michael Corleone</a><br/>
 Twitter: <a href="https://twitter.com/_bthanhtung" target="_blank" rel="noopener noreferrer">Bùi Thanh Tùng | Michael Corleone</a><br/>
-Linkedin: <a href="https://www.linkedin.com/in/bthanhtung/" target="_blank" rel="noopener noreferrer">Tung BT</a><br/>
-Email: &nbsp;&nbsp;<a href="">bthanhtung***@gmail.com</a>
-</p>
+Github: <a href="https://github.com/bthanhtung" target="_blank" rel="noopener noreferrer">Bùi Thanh Tùng | Michael Corleone</a><br/>
+Linkedin: <a href="https://www.linkedin.com/in/bthanhtung/" target="_blank" rel="noopener noreferrer">Bùi Thanh Tùng | Michael Corleone</a><br/>
+Email: &nbsp;&nbsp;<a href="mailto:bthanhtung.se@gmail.com">bthanhtung***@gmail.com</a>
 <!-- slightdelayhere-->
-Best Regards
+Best Regards and Thanks for watching!!!
 <br/>
