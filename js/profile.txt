@@ -34,11 +34,13 @@ Up to this point, I have set foot in 2 universities and self-study at another or
 
 <span id="a">bthanhtung@corleone</span>:<span id="b">~</span><span id="c">$</span> head -n 5 contact-me <br/><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 You can find out more about me at <a href="https://bthanhtung.netlify.app/" target="_blank" rel="noopener noreferrer">bthanhtung.netlify.app</a>. Also, feel free to contact me on...<br/>
-Facebook: <a href="https://www.facebook.com/corleonez.me/" target="_blank" rel="noopener noreferrer">Bùi Thanh Tùng | Michael Corleone</a><br/>
-Twitter: <a href="https://twitter.com/_bthanhtung" target="_blank" rel="noopener noreferrer">Bùi Thanh Tùng | Michael Corleone</a><br/>
-Github: <a href="https://github.com/bthanhtung" target="_blank" rel="noopener noreferrer">Bùi Thanh Tùng | Michael Corleone</a><br/>
-Linkedin: <a href="https://www.linkedin.com/in/bthanhtung/" target="_blank" rel="noopener noreferrer">Bùi Thanh Tùng | Michael Corleone</a><br/>
-Email: &nbsp;&nbsp;<a href="mailto:bthanhtung.se@gmail.com">bthanhtung***@gmail.com</a>
+<ul>
+<li><a href="https://www.facebook.com/corleonez.me" target="_blank" rel="noopener noreferrer">Facebook</a></li>
+<li><a href="https://twitter.com/_bthanhtung" target="_blank" rel="noopener noreferrer">Twitter</a></li>
+<li><a href="https://github.com/bthanhtung" target="_blank" rel="noopener noreferrer">Github</a></li>
+<li><a href="https://www.linkedin.com/in/bthanhtung" target="_blank" rel="noopener noreferrer">Linkedin</a></li>
+<li><a href="mailto:bthanhtung.se@gmail.com" target="_blank" rel="noopener noreferrer">Mail</a></li>
+</ul><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 <!-- slightdelayhere-->
 Best Regards and Thanks for watching!!!
 <br/>
