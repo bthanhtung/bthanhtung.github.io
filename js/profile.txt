@@ -1,8 +1,8 @@
-<span id="a">bthanhtung@corleone</span>:<span id="b">~</span><span id="c">$</span> whoami<br/><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+<span id="a">bthanhtung@developer</span>:<span id="b">~</span><span id="c">$</span> whoami<br/><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 Hi, my name is Bùi Thanh Tùng (Tung Bui).<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 <p>I'm a young developer from Viet Nam, passionate in software development and photograpy. I've been studying at Can Tho University for 4.5 years. Currently, I work at <a href="https://www.tmasolutions.com/" target="_blank" rel="noopener noreferrer">TMA Solutions</a> as a Java Backend Developer.</p><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 
-<span id="a">bthanhtung@corleone</span>:<span id="b">~</span><span id="c">$</span> cat technologies-and-skills <br/><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+<span id="a">bthanhtung@developer</span>:<span id="b">~</span><span id="c">$</span> cat technologies-and-skills <br/><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 The following list includes some of the technologies and programming languages that I have worked with or have learned about or interested in:
 <ul>
 <li><a href="https://spring.io/" target="_blank" rel="noopener noreferrer">Java = ["Spring Boot", "Hibernate", "JPA"]</a></li>
@@ -14,16 +14,18 @@ The following list includes some of the technologies and programming languages t
 <li><a href="#" target="_blank" rel="noopener noreferrer">...</a></li>
 </ul><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 
-<span id="a">bthanhtung@corleone</span>:<span id="b">~</span><span id="c">$</span> tail -n 4 projects-and-work-experience <br/><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+<span id="a">bthanhtung@developer</span>:<span id="b">~</span><span id="c">$</span> tail -n 5 projects-and-work-experience <br/><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 During my time studying at the school, I had real projects and some subject projects such as:
 <ul>
+<li><a href="https://covid19cantho.herokuapp.com/" target="_blank" rel="noopener noreferrer">The web–based epidemic simulation system integrated with geographic
+information system</a></li>
 <li><a href="http://se.cit.ctu.edu.vn/" target="_blank" rel="noopener noreferrer">Software Department Website</a></li>
 <li><a href="https://github.com/bthanhtung/sudoku-game" target="_blank" rel="noopener noreferrer">Sudoku Game</a></li>
 <li><a href="https://github.com/bthanhtung/apartment-management" target="_blank" rel="noopener noreferrer">Apartment Management</a></li>
 <li><a href="https://niithanoi.edu.vn/cong-nghe.html" target="_blank" rel="noopener noreferrer">Java Blog Content</a></li>
 </ul><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 
-<span id="a">bthanhtung@corleone</span>:<span id="b">~</span><span id="c">$</span> ls /education <br/><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+<span id="a">bthanhtung@developer</span>:<span id="b">~</span><span id="c">$</span> ls /education <br/><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 Up to this point, I have set foot in 2 universities and self-study at another organization education such as:
 <ul>
 <li><a href="http://cit.ctu.edu.vn/" target="_blank" rel="noopener noreferrer">Software Engineering at Can Tho University (2017 - Present)</a></li>
@@ -32,7 +34,7 @@ Up to this point, I have set foot in 2 universities and self-study at another or
 <li><a href="https://fullstack.edu.vn/" target="_blank" rel="noopener noreferrer">Web Development at F8 Offical (2020 - Present) </a></li>
 </ul><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 
-<span id="a">bthanhtung@corleone</span>:<span id="b">~</span><span id="c">$</span> head -n 5 contact-me <br/><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+<span id="a">bthanhtung@developer</span>:<span id="b">~</span><span id="c">$</span> head -n 5 contact-me <br/><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 You can find out more about me at <a href="https://bthanhtung.netlify.app/" target="_blank" rel="noopener noreferrer">bthanhtung.netlify.app</a>. Also, feel free to contact me on...<br/>
 <ul>
 <li><a href="https://www.facebook.com/bthanhtung.dev" target="_blank" rel="noopener noreferrer">Facebook</a></li>
@@ -42,5 +44,5 @@ You can find out more about me at <a href="https://bthanhtung.netlify.app/" targ
 <li><a href="mailto:bthanhtung.se@gmail.com" target="_blank" rel="noopener noreferrer">Mail</a></li>
 </ul><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 <!-- slightdelayhere-->
-Best Regards and Thanks for watching!!!
+"Pursue excellence, and success will follow." :))
 <br/>
