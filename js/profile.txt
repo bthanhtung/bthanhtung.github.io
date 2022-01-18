@@ -17,8 +17,7 @@ The following list includes some of the technologies and programming languages t
 <span id="a">bthanhtung@developer</span>:<span id="b">~</span><span id="c">$</span> tail -n 5 projects-and-work-experience <br/><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 During my time studying at the school, I had real projects and some subject projects such as:
 <ul>
-<li><a href="https://covid19cantho.herokuapp.com/" target="_blank" rel="noopener noreferrer">The web–based epidemic simulation system integrated with geographic
-information system</a></li>
+<li><a href="https://covid19cantho.herokuapp.com/" target="_blank" rel="noopener noreferrer">The web–based epidemic simulation system integrated with GIS</a></li>
 <li><a href="http://se.cit.ctu.edu.vn/" target="_blank" rel="noopener noreferrer">Software Department Website</a></li>
 <li><a href="https://github.com/bthanhtung/sudoku-game" target="_blank" rel="noopener noreferrer">Sudoku Game</a></li>
 <li><a href="https://github.com/bthanhtung/apartment-management" target="_blank" rel="noopener noreferrer">Apartment Management</a></li>
