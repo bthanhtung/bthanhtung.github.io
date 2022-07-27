@@ -1,6 +1,6 @@
 <span id="a">bthanhtung@developer</span>:<span id="b">~</span><span id="c">$</span> whoami<br/><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 Hi, my name is Bùi Thanh Tùng (Tung Bui).<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
-<p>I'm a young developer from Viet Nam, passionate about software development and photography. I've been studying at Can Tho University for 4.5 years. During that time, I served as the class-secretary of class Software Engineering A2, won scholarships for several semesters, and was among 20 students selected for the AUN-QA of the Software Engineering Department.</p><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+<p>I'm a young developer from Viet Nam, passionate about software development and photography. I've been studying at Can Tho University for 4.5 years. During that time, I served as the class-secretary of class Software Engineering A2, won scholarships for several semesters, and was among 20 students selected for the AUN-QA of the Software Engineering Department.</p>
 <p>Currently, I work at <a href="https://www.tmasolutions.com/" target="_blank" rel="noopener noreferrer">TMA Solutions</a> as a Java Backend Developer.</p><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 
 <span id="a">bthanhtung@developer</span>:<span id="b">~</span><span id="c">$</span> cat technologies-and-skills <br/><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
