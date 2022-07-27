@@ -1,16 +1,17 @@
 <span id="a">bthanhtung@developer</span>:<span id="b">~</span><span id="c">$</span> whoami<br/><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 Hi, my name is Bùi Thanh Tùng (Tung Bui).<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
-<p>I'm a young developer from Viet Nam, passionate in software development and photograpy. I've been studying at Can Tho University for 4.5 years. Currently, I work at <a href="https://www.tmasolutions.com/" target="_blank" rel="noopener noreferrer">TMA Solutions</a> as a Java Backend Developer.</p><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+<p>I'm a young developer from Viet Nam, passionate about software development and photography. I've been studying at Can Tho University for 4.5 years. During that time, I served as the class-secretary of class Software Engineering A2, won scholarships for several semesters, and was among 20 students selected for the AUN-QA of the Software Engineering Department.</p><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+<p>Currently, I work at <a href="https://www.tmasolutions.com/" target="_blank" rel="noopener noreferrer">TMA Solutions</a> as a Java Backend Developer.</p><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 
 <span id="a">bthanhtung@developer</span>:<span id="b">~</span><span id="c">$</span> cat technologies-and-skills <br/><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
-The following list includes some of the technologies and programming languages that I have worked with or have learned about or interested in:
+The following list includes some of the technologies and programming languages that I have worked with or have learned about or am interested in:
 <ul>
-<li><a href="https://spring.io/" target="_blank" rel="noopener noreferrer">Java = ["Spring Boot", "Hibernate", "JPA"]</a></li>
+<li><a href="https://spring.io/" target="_blank" rel="noopener noreferrer">Java = ["Spring", "Spring Boot", "Hibernate", "JPA"]</a></li>
 <li><a href="https://nodejs.org/en/" target="_blank" rel="noopener noreferrer">JavaScript = ["Node.js", "Express.js", "Nest.js"]</a></li>
 <li><a href="#" target="_blank" rel="noopener noreferrer">Database = ["MySQL", "MariaDB", "SQL Server", "MongoDB"]</a></li>
-<li><a href="#" target="_blank" rel="noopener noreferrer">Tools and others = ["Git", "VS Code", "IntelliJ", "Eclipse"]</a></li>
+<li><a href="#" target="_blank" rel="noopener noreferrer">Tools and others = ["Git", "IntelliJ", "VS Code", "Eclipse", "Postman"]</a></li>
 <li><a href="#" target="_blank" rel="noopener noreferrer">Soft skills = ["Team work", "Creativity", "Leadership", "Time Management"]</a></li>
-<li><a href="#" target="_blank" rel="noopener noreferrer">Microservice, Message queue, Docker, K8s...</a></li>
+<li><a href="#" target="_blank" rel="noopener noreferrer">Microservice, Message queue, Docker, K8s, Azure...</a></li>
 <li><a href="#" target="_blank" rel="noopener noreferrer">...</a></li>
 </ul><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 
@@ -25,7 +26,7 @@ During my time studying at the school, I had real projects and some subject proj
 </ul><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 
 <span id="a">bthanhtung@developer</span>:<span id="b">~</span><span id="c">$</span> ls /education <br/><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
-Up to this point, I have set foot in 2 universities and self-study at another organization education such as:
+Up to this point, I have set foot in 2 universities and self-study at other organizations education such as:
 <ul>
 <li><a href="http://cit.ctu.edu.vn/" target="_blank" rel="noopener noreferrer">Software Engineering at Can Tho University (2017 - 2021)</a></li>
 <li><a href="http://actvn.edu.vn//" target="_blank" rel="noopener noreferrer">Information Assurance at Academy of Crytography Techniques (2016 - 2017)</a></li>
@@ -36,7 +37,7 @@ Up to this point, I have set foot in 2 universities and self-study at another or
 <span id="a">bthanhtung@developer</span>:<span id="b">~</span><span id="c">$</span> head -n 5 contact-me <br/><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 You can find out more about me at <a href="https://bthanhtung.netlify.app/" target="_blank" rel="noopener noreferrer">bthanhtung.netlify.app</a>. Also, feel free to contact me on...<br/>
 <ul>
-<li><a href="https://www.facebook.com/bthanhtung.dev" target="_blank" rel="noopener noreferrer">Facebook</a></li>
+<li><a href="https://www.facebook.com/tungdadev" target="_blank" rel="noopener noreferrer">Facebook</a></li>
 <li><a href="https://twitter.com/_bthanhtung" target="_blank" rel="noopener noreferrer">Twitter</a></li>
 <li><a href="https://github.com/bthanhtung" target="_blank" rel="noopener noreferrer">Github</a></li>
 <li><a href="https://www.linkedin.com/in/bthanhtung" target="_blank" rel="noopener noreferrer">Linkedin</a></li>
