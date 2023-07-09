@@ -7,9 +7,9 @@ The following list includes some of the technologies and programming languages t
 <ul>
 <li><a href="https://spring.io/" target="_blank" rel="noopener noreferrer">Java = ["Spring", "Spring Boot", "Hibernate", "JPA"]</a></li>
 <li><a href="https://nodejs.org/en/" target="_blank" rel="noopener noreferrer">JavaScript = ["Node.js", "Express.js", "Nest.js"]</a></li>
-<li><a href="#" target="_blank" rel="noopener noreferrer">Database = ["MySQL", "MariaDB", "SQL Server", "MongoDB"]</a></li>
-<li><a href="#" target="_blank" rel="noopener noreferrer">Tools and others = ["Git", "IntelliJ", "VS Code", "Eclipse", "Postman"]</a></li>
-<li><a href="#" target="_blank" rel="noopener noreferrer">Soft skills = ["Team work", "Creativity", "Leadership", "Time Management"]</a></li>
+<li><a href="#" target="_blank" rel="noopener noreferrer">Database = ["Oracle", "MySQL", "MariaDB", "SQL Server", "MongoDB"]</a></li>
+<li><a href="#" target="_blank" rel="noopener noreferrer">Tools and others = ["Git", "IntelliJ", "VS Code", "Postman"]</a></li>
+<li><a href="#" target="_blank" rel="noopener noreferrer">Soft skills = ["Teamwork", "Creativity", "Leadership", "Time Management"]</a></li>
 <li><a href="#" target="_blank" rel="noopener noreferrer">Microservice, Message queue, Docker, K8s, Azure...</a></li>
 <li><a href="#" target="_blank" rel="noopener noreferrer">...</a></li>
 </ul><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
